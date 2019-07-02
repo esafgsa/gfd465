@@ -1,0 +1,6 @@
+owner=561267998308958218
+prefix=Ga
+game=Break | Gaplay
+stayinchannel=true
+songinstatus=false
+token=NTk1NzQzNDYyMDgzNjU3NzI4.XRvd5A.RCHov0U63O2Ensp5rzZugyVYx_A
